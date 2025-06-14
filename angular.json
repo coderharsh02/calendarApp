@@ -28,7 +28,7 @@
               "src/styles.css"
             ],
             "scripts": [],
-            "baseHref": "/calendar-app/"
+            "baseHref": "/calendarApp/"
           },
           "configurations": {
             "production": {
